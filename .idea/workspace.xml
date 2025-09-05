@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b4bc6a1-5961-4a9f-89cb-4702f42d7149" name="Changes" comment="all files">
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/doctrees/environment.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/doctrees/index.doctree" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/.buildinfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_downloads/285d259a7ca379fc578042470a342c78/Jetpack Compose.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_downloads/3d7beeab7919b71e5250d7ec0c602440/Activities &amp; Intents.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_downloads/659457642da1794377cbc8d81ba0f778/Kotlin#1.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_downloads/808b8ec41b0a50a0dc54d70533271000/Kotlin#3.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_downloads/cd2e1f7a7ff4d7d0a4d5a05f224b3551/Storages &amp; Permissions.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_downloads/d78c0dac6c68d10e17d02ee55b722e9d/Kotlin#2.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/Activities &amp; Intents.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/Jetpack Compose.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/Kotlin#1.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/Kotlin#2.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/Kotlin#3.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/Storages &amp; Permissions.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/alabaster.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/doctools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/documentation_options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/file.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/language_data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/minus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/pygments.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/searchtools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/_static/sphinx_highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/genindex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/objects.inv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/html/searchindex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/make.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/conf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -64,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Android__course",
     "last_opened_file_path": "C:/Users/makov/PycharmProjects/wiki_android/source/_static"
   }
 }]]></component>
@@ -108,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757090286335</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all files">
+      <option name="closed" value="true" />
+      <created>1757090464186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757090464186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
